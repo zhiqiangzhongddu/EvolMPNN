@@ -1,0 +1,5 @@
+.idea/
+code/.ipynb_checkpoints
+code/prepare_data/.ipynb_checkpoints
+data/FLIP/aav/*.csv
+data/FLIP/aav/splits/*.csv
